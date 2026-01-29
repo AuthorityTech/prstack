@@ -1,18 +1,18 @@
 ---
 layout: default
-title: PR Stack - AI Visibility & Answer Engine Marketing
-description: Daily insights on AI Visibility, PR automation, and answer engine marketing
+title: Curated by AuthorityTech - AI Visibility & Earned Media
+description: Curated AI visibility and earned media insights for startups
 ---
 
-# PR Stack
+# Curated by AuthorityTech
 
-**Daily insights on AI Visibility, PR automation, and answer engine marketing**
+**Curated AI visibility and earned media insights for startups**
 
 ---
 
-## 🌐 Main Blog
+## 🌐 Main Publication
 
-Visit **[prstack.authoritytech.io](https://prstack.authoritytech.io)** for daily articles and analysis.
+Visit **[curated.authoritytech.io](https://curated.authoritytech.io)** for daily strategic insights and analysis.
 
 ---
 
