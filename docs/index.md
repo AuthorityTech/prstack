@@ -76,6 +76,7 @@ We're tracking this transition, defining the category, and sharing what works.
 
 ## Latest Articles
 
+- **[2026-01-29]** [Yahoo Scout Just Changed The AI Visibility Game (And Most Brands Will Miss It)](articles/2026-01-29-yahoo-scout-ai-visibility-fragmentation.html) - Yahoo Scout launched with 250M users, Claude AI, and different citation logic—proving the answer engine market is fragmenting, not consolidating
 - **[2026-01-29]** [AI Visibility Tools: What Actually Works for Startups in 2026](articles/2026-01-29-ai-visibility-tools-what-actually-works-for-startups-in-2026.html) - Analysis of 10 best AI visibility tracking tools for startups (OmniSEO®, Ahrefs, Otterly.AI, etc.)
 
 Visit [prstack.authoritytech.io](https://prstack.authoritytech.io) for the newest content.
