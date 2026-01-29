@@ -1,37 +1,83 @@
 ---
 layout: default
-title: PR Stack - Marketing Automation & AEO Insights
+title: PR Stack - AI Visibility & Answer Engine Marketing
+description: Daily insights on AI Visibility, PR automation, and answer engine marketing
 ---
 
 # PR Stack
 
-**Tactical insights on marketing automation, AEO, and startup growth.**
+**Daily insights on AI Visibility, PR automation, and answer engine marketing**
 
-## Latest Articles
+---
 
-Visit **[prstack.authoritytech.io](https://prstack.authoritytech.io)** for all articles and guides.
+## 🌐 Main Blog
 
-## Core Topics
+Visit **[prstack.authoritytech.io](https://prstack.authoritytech.io)** for daily articles and analysis.
 
-### Answer Engine Optimization (AEO)
-Optimize your content for ChatGPT, Perplexity, Claude, and other AI-powered search tools.
+---
 
-### PR Automation
-Scale your media outreach with smart tools and proven workflows.
+## What is AI Visibility?
 
-### Startup Marketing
-Bootstrap-friendly strategies for building credibility and authority on $0 budget.
+**AI Visibility** is the practice of optimizing your brand, content, and authority to be discoverable and cited by AI-powered search and answer engines.
 
-### Link Building
-Modern tactics for earning high-quality backlinks and growing domain authority.
+It's the evolution of SEO for a world where ChatGPT, Perplexity, Claude, and Gemini answer questions instead of ranking blue links.
+
+---
+
+## Our Focus Areas
+
+### 🤖 Answer Engine Marketing (AEM)
+- How AI search actually works
+- Getting cited by LLMs
+- Schema markup strategies
+- Structured data for AI extraction
+
+### 📢 PR Automation
+- Modern outreach workflows
+- Media database APIs
+- Automation tools & tactics
+- ROI measurement
+
+### 🚀 Startup Growth
+- Building authority from zero
+- $0 budget strategies
+- Domain credibility tactics
+- Link building that works
+
+---
+
+## Publishing Schedule
+
+**📰 Daily News & Insights** (800-1200 words)  
+Breaking down the latest in PR tech, AI search, and marketing automation
+
+**📊 Weekly Deep Dives** (1500-2500 words)  
+Strategic frameworks, case studies, and tactical implementation guides
+
+---
+
+## Why This Matters
+
+The shift from traditional SEO to AI Visibility is happening **right now**.
+
+Companies that adapt early will dominate answer engine results. Those that don't will be invisible to the next generation of search.
+
+We're tracking this transition, defining the category, and sharing what works.
 
 ---
 
 ## Resources
 
-- [GitHub Repository](https://github.com/AuthorityTech/prstack)
-- [Main Blog](https://prstack.authoritytech.io)
+- **Main Blog:** [prstack.authoritytech.io](https://prstack.authoritytech.io)
+- **GitHub Repo:** [github.com/AuthorityTech/prstack](https://github.com/AuthorityTech/prstack)
+- **Related Tool:** [AuthorityTech](https://authoritytech.io) - PR automation platform
 
 ---
 
-*Content licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
+## Latest Articles
+
+Visit [prstack.authoritytech.io](https://prstack.authoritytech.io) for the newest content.
+
+---
+
+<small>Content licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Cite freely, attribute back.</small>
