@@ -1,0 +1,22 @@
+title: "PR Stack - AI Visibility & Answer Engine Marketing"
+description: "Daily insights on AI Visibility, PR automation, and answer engine marketing"
+baseurl: "/prstack"
+url: "https://authoritytech.github.io"
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  
+# Collections
+defaults:
+  - scope:
+      path: "articles"
+    values:
+      layout: "default"
+      
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
