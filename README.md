@@ -65,7 +65,7 @@ We're here to:
 ## 🔗 Connect
 
 - **Publication:** [curated.authoritytech.io](https://curated.authoritytech.io)
-- **GitHub:** [github.com/AuthorityTech/prstack](https://github.com/AuthorityTech/prstack)
+- **GitHub:** [github.com/AuthorityTech/curated](https://github.com/AuthorityTech/curated)
 - **AuthorityTech Platform:** [authoritytech.io](https://authoritytech.io)
 
 ---

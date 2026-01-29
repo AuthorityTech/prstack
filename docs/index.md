@@ -67,7 +67,7 @@ Companies that understand platform-specific optimization will dominate. Those fo
 ## Resources
 
 - **Main Publication:** [curated.authoritytech.io](https://curated.authoritytech.io)
-- **GitHub Repo:** [github.com/AuthorityTech/prstack](https://github.com/AuthorityTech/prstack)
+- **GitHub Repo:** [github.com/AuthorityTech/curated](https://github.com/AuthorityTech/curated)
 - **AuthorityTech Platform:** [authoritytech.io](https://authoritytech.io) - Performance PR automation
 
 ---
