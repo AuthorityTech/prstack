@@ -2,9 +2,9 @@
 title: "Why Your Analytics Can't Track AI Traffic (And What to Do About It)"
 slug: ai-traffic-attribution-analytics
 description: "Traditional web analytics can't track AI-driven traffic from ChatGPT, Perplexity, and Claude. Learn why GA4 fails and what measurement strategies actually work in 2026."
-date: 2026-01-30T21:40:00Z
-image: https://storage.googleapis.com/authoritytech-prod-assets/public/cdn/blog/2026-01-30-ai-traffic-attribution.png
-canonical: https://authoritytech.io/blog/ai-traffic-attribution-analytics
+date: "2026-01-30T21:40:00Z"
+image: "https://storage.googleapis.com/authoritytech-prod-assets/public/cdn/blog/2026-01-30-ai-traffic-attribution.png"
+canonical: "https://authoritytech.io/blog/ai-traffic-attribution-analytics"
 tags: [AEO, AI Visibility, Analytics]
 ---
 

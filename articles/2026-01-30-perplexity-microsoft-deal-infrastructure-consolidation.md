@@ -8,8 +8,8 @@ tags:
   - AI Visibility
   - AEO
   - News
-canonical: https://curated.authoritytech.io/perplexity-microsoft-deal-infrastructure-consolidation/
-image: https://storage.googleapis.com/authoritytech-prod-assets/public/cdn/blog/2026-01-30-perplexity-microsoft-infrastructure.png
+canonical: "https://curated.authoritytech.io/perplexity-microsoft-deal-infrastructure-consolidation/"
+image: "https://storage.googleapis.com/authoritytech-prod-assets/public/cdn/blog/2026-01-30-perplexity-microsoft-infrastructure.png"
 schema:
   type: BlogPosting
   headline: "Perplexity Microsoft Deal Signals Answer Engine Infrastructure Consolidation"
@@ -18,14 +18,14 @@ schema:
   author:
     type: Person
     name: Jaxon Parrott
-    url: https://jaxonparrott.com
+    url: "https://jaxonparrott.com"
   publisher:
     type: Organization
     name: Curated by AuthorityTech
-    url: https://curated.authoritytech.io/
+    url: "https://curated.authoritytech.io/"
   image:
     type: ImageObject
-    url: https://storage.googleapis.com/authoritytech-prod-assets/public/cdn/blog/2026-01-30-perplexity-microsoft-infrastructure.png
+    url: "https://storage.googleapis.com/authoritytech-prod-assets/public/cdn/blog/2026-01-30-perplexity-microsoft-infrastructure.png"
 ---
 
 # Perplexity's $750M Microsoft Deal Signals the Answer Engine Consolidation Nobody Expected
