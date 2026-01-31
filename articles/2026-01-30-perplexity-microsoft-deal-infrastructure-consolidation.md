@@ -9,6 +9,7 @@ tags:
   - AEO
   - News
 canonical: "https://curated.authoritytech.io/perplexity-microsoft-deal-infrastructure-consolidation/"
+published_url: "https://curated.authoritytech.io/perplexity-microsoft-deal-infrastructure-consolidation/"
 image: "https://storage.googleapis.com/authoritytech-prod-assets/public/cdn/blog/2026-01-30-perplexity-microsoft-infrastructure.png"
 schema:
   type: BlogPosting

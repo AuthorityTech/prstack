@@ -5,6 +5,7 @@ description: "Traditional web analytics can't track AI-driven traffic from ChatG
 date: "2026-01-30T21:40:00Z"
 image: "https://storage.googleapis.com/authoritytech-prod-assets/public/cdn/blog/2026-01-30-ai-traffic-attribution.png"
 canonical: "https://authoritytech.io/blog/ai-traffic-attribution-analytics"
+published_url: "https://authoritytech.io/blog/ai-traffic-attribution-analytics"
 tags: [AEO, AI Visibility, Analytics]
 ---
 
